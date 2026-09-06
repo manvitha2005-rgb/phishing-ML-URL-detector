@@ -114,4 +114,4 @@ R. Dubey, A. M. Tripathi, A. Srivastava, and S. Singh, “Phishing Detection Sys
 - College: KLH Bachupally
 - Department: DEPARTMENT OF CSIT
 - Guide: Dr. K Venkateshwara Rao
-- Team: 2320090017 - D Sunidhi; 2320090060 - P Manvitha; 2320090069 - G Likith
+- Team:2320090060 - P Manvitha; 2320090017 - D Sunidhi; 2320090069 - G Likith
