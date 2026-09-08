@@ -51,7 +51,7 @@ These are results from this independent 20,000-URL reproduction. They are not th
 ### Run the demo/API
 
 ```bash
-git clone https://github.com/SunidhiDeekonda/phishing-ML-URL-detector.git
+git clone https://github.com/manvitha2005-rgb/phishing-ML-URL-detector.git
 cd phishing-ML-URL-detector
 python3 -m venv .venv
 source .venv/bin/activate
